@@ -8,7 +8,6 @@ continuous event ingestion → validation and cleaning → windowed real-time an
 time-series analysis → anomaly detection → ML forecasting → distributed processing →
 SQLite storage → live Streamlit dashboard.
 
-![architecture](docs/architecture.png)
 
 ## Key results
 
